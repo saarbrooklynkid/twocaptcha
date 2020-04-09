@@ -1,19 +1,19 @@
-# @saarbrooklynkid/twocaptcha
+# @saarbrooklynkid/two-captcha
 
-@saarbrooklynkid/twocaptcha is a node two captcha api wrapper.
+@saarbrooklynkid/two-captcha is a node two captcha api wrapper.
 
 ## Installation
 
-Use the package manager [npm](https://www.npmjs.com/) to install @saarbrooklynkid/twocaptcha.
+Use the package manager [npm](https://www.npmjs.com/) to install @saarbrooklynkid/two-captcha.
 
 ```bash
-npm i @saarbrooklynkid/twocaptcha
+npm i @saarbrooklynkid/two-captcha
 ```
 
 ## Example
 
 ```js
-const twoCaptcha=require("@saarbrooklynkid/twocaptcha");
+const twoCaptcha=require("@saarbrooklynkid/two-captcha");
 const twoCaptchaClient = new twoCaptcha({apiKey:APIKEY}); // optional: returnError BOOLEAN, timeout INT, intervall INT
 
 async function hCap(){

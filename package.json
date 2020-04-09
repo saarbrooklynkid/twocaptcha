@@ -1,5 +1,5 @@
 {
-    "name": "@saarbrooklynkid/twocaptcha",
+    "name": "@saarbrooklynkid/two-captcha",
     "version": "0.0.1",
     "description": "two captcha api wrapper",
     "main": "index.js",
